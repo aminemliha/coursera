@@ -1,0 +1,2 @@
+
+n = input("hello coursera")
