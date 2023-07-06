@@ -1,2 +1,3 @@
 
-n = input("hello coursera")
+n = input("HELLO Coursera")
+
